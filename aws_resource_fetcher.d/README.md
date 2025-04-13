@@ -89,4 +89,4 @@ Modify `regions` list in the script to inventory resources across multiple regio
 
 ## License
 
-MIT License
+NO-COPYRIGHT FREECENSE
