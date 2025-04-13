@@ -83,6 +83,10 @@ The script will:
 - Operates only on AMIs owned by your AWS account
 - Requires explicit confirmation before making changes
 
+## License
+
+NO-COPYRIGHT FREECENSE
+
 ## Support
 
 For issues or questions, please open an issue in the repository. 
